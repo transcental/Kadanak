@@ -1,0 +1,61 @@
+.container {
+  display: flex;
+  padding: 40px 38px;
+  flex-direction: column;
+  align-items: center;
+  background-color: #453750;
+  color: white;
+  font-family: "Open Sans", sans-serif;
+}
+
+.heading {
+  color: white;
+  font-family: "Iceberg";
+  font-size: 32px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.split {
+  display: flex;
+  padding: 48px 0px;
+  justify-content: center;
+  align-items: center;
+  gap: 32px;
+}
+
+.company {
+  max-width: 500px;
+  flex-shrink: 0;
+}
+
+.people {
+  display: flex;
+  max-width: 450px;
+  max-height: 321.426px;
+  padding-left: 10px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  flex-shrink: 0;
+}
+
+.person {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex: 1 0 0;
+  align-self: stretch;
+  img {
+    width: 96px;
+    height: 96px;
+    border-radius: 50%;
+  }
+  .name {
+    display: inline;
+    font-weight: bold;
+  }
+  p {
+    opacity: 85%;
+  }
+}
