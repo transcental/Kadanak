@@ -23,7 +23,7 @@ export default function About() {
           <div className={styles.person}>
             <img src="https://via.placeholder.com/96" alt="person" />
             <div className={styles.info}>
-              <h3>Person Two</h3>
+              <h3>Ken Seabrook</h3>
               <p className={styles.desc}>
                 I'm the lead designer at Kadanak. I've worked on x, y and z
                 using 123.
@@ -33,7 +33,7 @@ export default function About() {
           <div className={styles.person}>
             <img src="https://via.placeholder.com/96" alt="person" />
             <div className={styles.info}>
-              <h3>Person Three</h3>
+              <h3>Antonia Diaconu</h3>
               <p className={styles.desc}>
                 I'm the lead storyteller & modeller at Kadanak. I've worked on
                 x, y and z using 123.
