@@ -1,0 +1,17 @@
+.container {
+    align-items: center;
+    background-color: #000000;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    padding: 128px 0px;
+  }
+  
+  .container .text_wrapper {
+    color: #9882ac;
+    font-family: "Zen Maru Gothic";
+    font-size: 32px;
+    line-height: normal;
+    text-align: center;
+  }
+  
