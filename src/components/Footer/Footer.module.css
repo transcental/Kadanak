@@ -1,0 +1,10 @@
+.footer {
+  display: flex;
+  width: 100dvw;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  background-color: #a393bf;
+  font-family: "Zen Maru Gothic";
+}
