@@ -24,6 +24,12 @@
   gap: 32px;
 }
 
+@media (max-width: 1000px) {
+  .split {
+    flex-direction: column;
+  }
+}
+
 .company {
   max-width: 500px;
   flex-shrink: 0;

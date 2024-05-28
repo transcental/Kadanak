@@ -51,18 +51,6 @@ function HUDs() {
   return (
     <div className={styles.hud_container}>
       <div className={styles.hud}>
-        <div className={styles.hud_info}>
-          <h4>HUD Title</h4>
-          <p>
-            Mollit quis sit id nisi aliquip. Deserunt nisi aliquip commodo
-            ipsum. Reprehenderit sunt ut mollit eu aliqua. Eiusmod duis dolore
-            tempor non tempor ea fugiat. Culpa sit elit velit adipisicing Lorem
-            ipsum sunt et.
-          </p>
-        </div>
-        <img src="https://via.placeholder.com/370x262" alt="hud" />
-      </div>
-      <div className={styles.hud}>
         <img src="https://via.placeholder.com/370x262" alt="hud" />
         <div className={styles.hud_info}>
           <h4>HUD Title</h4>
@@ -75,6 +63,7 @@ function HUDs() {
         </div>
       </div>
       <div className={styles.hud}>
+        <img src="https://via.placeholder.com/370x262" alt="hud" />
         <div className={styles.hud_info}>
           <h4>HUD Title</h4>
           <p>
@@ -84,7 +73,18 @@ function HUDs() {
             ipsum sunt et.
           </p>
         </div>
+      </div>
+      <div className={styles.hud}>
         <img src="https://via.placeholder.com/370x262" alt="hud" />
+        <div className={styles.hud_info}>
+          <h4>HUD Title</h4>
+          <p>
+            Mollit quis sit id nisi aliquip. Deserunt nisi aliquip commodo
+            ipsum. Reprehenderit sunt ut mollit eu aliqua. Eiusmod duis dolore
+            tempor non tempor ea fugiat. Culpa sit elit velit adipisicing Lorem
+            ipsum sunt et.
+          </p>
+        </div>
       </div>
       <div className={styles.hud}>
         <img src="https://via.placeholder.com/370x262" alt="hud" />
