@@ -23,6 +23,11 @@
   font-size: 24px;
 }
 
+hr {
+  width: 30%;
+  border: 1px solid #453750;
+}
+
 .posters {
   display: flex;
   /* padding: 40px; */
@@ -70,8 +75,9 @@ p {
   justify-content: center;
   align-items: center;
   gap: 50px;
+  margin-top: 32px;
   p {
-    max-width: 500px;
+    max-width: 300px;
   }
 }
 
@@ -83,6 +89,10 @@ p {
   .hud, .hud:nth-child(odd) {
     flex-direction: column;
     text-align: center;
+  }
+  img {
+    width: 50%;
+    height: 50%;
   }
 }
 

@@ -107,8 +107,10 @@ export default function Work() {
     <div className={styles.container}>
       <h2 className={styles.heading}>Work</h2>
       <h3 className={styles.subheading}>Posters</h3>
+      <hr />
       <Posters />
       <h3 className={styles.subheading}>Heads Up Displays</h3>
+      <hr />
       <HUDs />
     </div>
   );
