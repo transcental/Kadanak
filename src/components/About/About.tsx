@@ -15,8 +15,7 @@ export default function About() {
             <div className={styles.info}>
               <h3>Dillon Barnes</h3>
               <p className={styles.desc}>
-                I'm the tech lead at Kadanak. I've worked on x, y and z using
-                123.
+                Lead Developer & Project Manager
               </p>
             </div>
           </div>
@@ -25,8 +24,7 @@ export default function About() {
             <div className={styles.info}>
               <h3>Ken Seabrook</h3>
               <p className={styles.desc}>
-                I'm the lead designer at Kadanak. I've worked on x, y and z
-                using 123.
+                Lead Game Designer & Artist
               </p>
             </div>
           </div>
@@ -35,8 +33,7 @@ export default function About() {
             <div className={styles.info}>
               <h3>Antonia Diaconu</h3>
               <p className={styles.desc}>
-                I'm the lead storyteller & modeller at Kadanak. I've worked on
-                x, y and z using 123.
+                Lead Storyteller & Modeller
               </p>
             </div>
           </div>
