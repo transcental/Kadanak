@@ -9,6 +9,7 @@ export default function Contact() {
           <a
             href="https://x.com"
             className={`${styles.x} ${styles.contact_item}`}
+            target="_blank"
           >
             <img src="/x.svg" alt="X logo" />
             @KADanak
@@ -18,6 +19,7 @@ export default function Contact() {
           <a
             href="https://instagram.com"
             className={`${styles.instagram} ${styles.contact_item}`}
+            target="_blank"
           >
             <img src="/instagram.svg" alt="Instagram logo" />
             @kadanak
@@ -27,6 +29,7 @@ export default function Contact() {
           <a
             href="mailto:kadanak@dillonb07.studio"
             className={`${styles.email} ${styles.contact_item}`}
+            target="_blank"
           >
             <img src="/mail.svg" alt="Email icon" />
             hi@kadanak.co.uk
