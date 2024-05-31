@@ -4,7 +4,7 @@ function Posters() {
   return (
     <div className={styles.posters}>
       <div className={styles.poster}>
-        <img src="https://via.placeholder.com/260x368" alt="poster" />
+        <img src="/posters/dillon.png" alt="poster" />
         <h4>Poster Title</h4>
         <p>
           Mollit quis sit id nisi aliquip. Deserunt nisi aliquip commodo ipsum.
