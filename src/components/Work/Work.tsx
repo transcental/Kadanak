@@ -65,7 +65,7 @@ function HUDs() {
 
 export default function Work() {
   return (
-    <div className={styles.container}>
+    <div id='work' className={styles.container}>
       <h2 className={styles.heading}>Work</h2>
       <h3 className={styles.subheading}>Posters</h3>
       <hr />
