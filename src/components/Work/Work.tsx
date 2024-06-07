@@ -22,7 +22,7 @@ function Posters() {
         <img src="/posters/antonia.jpeg" className={styles.tall} alt="poster" />
         <h4>The Black Doome</h4>
         <p>
-          This is a poteer we can use to advertise out planetarium show we worked on as a group, where Fleeb takes a group of students back during the plague times. 
+          This is a poster we can use to advertise our planetarium show we worked on as a group, where Fleeb takes a group of students back during the plague times. 
         </p>
       </div>
     </div>
