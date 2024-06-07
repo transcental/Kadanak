@@ -11,7 +11,7 @@ export default function About() {
         </p>
         <div className={styles.people}>
           <div className={styles.person}>
-            <img src="https://via.placeholder.com/96" alt="person" />
+            <img src="/avatars/dillon.png" alt="person" />
             <div className={styles.info}>
               <h3>Dillon Barnes</h3>
               <p className={styles.desc}>
@@ -20,7 +20,7 @@ export default function About() {
             </div>
           </div>
           <div className={styles.person}>
-            <img src="https://via.placeholder.com/96" alt="person" />
+            <img src="/avatars/ken.png" alt="person" />
             <div className={styles.info}>
               <h3>Ken Seabrook</h3>
               <p className={styles.desc}>
