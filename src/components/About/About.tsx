@@ -29,7 +29,7 @@ export default function About() {
             </div>
           </div>
           <div className={styles.person}>
-            <img src="https://via.placeholder.com/96" alt="person" />
+            <img src="/avatars/antonia.png" alt="person" />
             <div className={styles.info}>
               <h3>Antonia Diaconu</h3>
               <p className={styles.desc}>
